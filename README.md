@@ -1,3 +1,8 @@
+# Information
+ - this was created in Feb 2022 to learn gitpod and use for Svelte training from Udemy.  
+ - it is probably out of date from the change to svelte kit
+
+
 # using gitpod
 - create new repo with readme file
 - create issue in new repo and name in setup svelte
